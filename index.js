@@ -1,4 +1,6 @@
 const APP_ID = "35ab6f9230bc4f5b95dd1958ae9f7ec4"
+
+//change regular
 const TOKEN = "007eJxTYOCVeGW7rnHbhC3TnXS/vhdXlZH385xjOO1/wvugKd/Muc8pMBibJiaZpVkaGRskJZukmSZZmqakGFqaWiSmWqaZpyabrI0wTG0IZGTYyG/OzMgAgSA+C0NuYmYeAwMAEP8eYQ=="
 const CHANNEL = "main"
 
